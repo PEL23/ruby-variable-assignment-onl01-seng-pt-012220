@@ -1,1 +1,1 @@
- # Define a local variab
+greeting = "hello world"
